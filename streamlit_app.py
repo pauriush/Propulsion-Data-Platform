@@ -13,6 +13,8 @@ pg = st.navigation(
     }
 )
 
+pg.run()
+
 st.title("Propulsion Data Platform")
 st.write(
     "Contents:"
